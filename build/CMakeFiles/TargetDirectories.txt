@@ -1,0 +1,7 @@
+/home/pzx/server/build/CMakeFiles/atpdxy.dir
+/home/pzx/server/build/CMakeFiles/test_fileappender.dir
+/home/pzx/server/build/CMakeFiles/test_mutex.dir
+/home/pzx/server/build/CMakeFiles/test_util.dir
+/home/pzx/server/build/CMakeFiles/test_countdownlatch.dir
+/home/pzx/server/build/CMakeFiles/edit_cache.dir
+/home/pzx/server/build/CMakeFiles/rebuild_cache.dir
